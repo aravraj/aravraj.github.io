@@ -12,4 +12,4 @@ I am broadly interested in the interplay between learning and decision making. C
 
 ### Contact me
 
-Find details [here](www.aravind93.wix.com/research)
+Find details here: aravind93.wix.com/research
