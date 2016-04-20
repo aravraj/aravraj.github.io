@@ -23,6 +23,4 @@ AI is also very popular with industries, which is both a boon and bane. Much of 
 However, the nature of problems people have been working on is also impacted by industrial funding. Fundamental questions of AI: to build agents that make competent decisions in unstructured and unknown environments, still remain open despite the many advances.
 
 ### testing some math equations
-<div>
-$$f(x) = \sum_{k=1}^{K}\alpha_{k}$$
-</div>
+$$a^2 + b^2 = c^2$$
