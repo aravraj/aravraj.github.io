@@ -20,4 +20,7 @@ This is perhaps the most interesting question of the last few decades. AI resear
 
 AI is also very popular with industries, which is both a boon and bane. Much of the interest is to do with the idea of automating various tasks. From time in memorial, we have always tried to automate tasks to reduce human burden, cut costs etc. This goes back to invention of wheel, steam engine, automated farming etc. In my opinion, most tasks that are purely physical have more or less been automated. For other tasks that we would like to automate (eg driving, automatic speech recognition, real-time translation etc), a component of *intelligence* is required. The attention from the industry means ample funding and an overall optimistic culture/atmosphere. 
 
-However, the nature of problems people have been working on is also impacted by industrial funding. Fundamental questions of AI: to build agents that make competent decisions in unstructured and unknown environments, still remain open despite the many advances. 
+However, the nature of problems people have been working on is also impacted by industrial funding. Fundamental questions of AI: to build agents that make competent decisions in unstructured and unknown environments, still remain open despite the many advances.
+
+### testing some math equations
+$$f(x) = \sum_{k=1}^{K}\alpha_{k}$$
