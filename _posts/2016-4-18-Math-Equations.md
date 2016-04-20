@@ -1,3 +1,8 @@
+---
+layout: post
+title: Math Equations
+---
+
 ### Testing out some math equations
 I am trying to get MathJax to work with Jekyll. Trying out some equations
 
