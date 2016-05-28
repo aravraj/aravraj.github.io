@@ -4,11 +4,11 @@ title: About Me
 permalink: /about/
 ---
 
-I am an undergraduate researcher at IIT Madras, where I have been studying for the past four years. I am fortunate to be advised by Profs. [Ravindran](http://www.cse.iitm.ac.in/~ravi/), [Shankar Narasimhan](http://www.che.iitm.ac.in/~naras/research.htm), and N. Sridharakumar. I am a proud member of [RISE Lab](http://www.cse.iitm.ac.in/) and [ILDS](http://cmsrv.iitm.ac.in/ilds/home/).
+I am an undergraduate researcher at IIT Madras, where I have been studying for the past four years. I am fortunate to be advised by Profs. [Ravindran](http://www.cse.iitm.ac.in/~ravi/), [Shankar Narasimhan](http://www.che.iitm.ac.in/~naras/research.htm), and Sridharakumar. I am a proud member of [RISE Lab](http://www.cse.iitm.ac.in/) and [ILDS](http://cmsrv.iitm.ac.in/ilds/home/).
 
-After dabbling in Systems & Control theory and (briefly) Statistical Physics, I found my calling in Artificial Intelligence. AI essentially formalized all questions that interested me and generalized decision & control.
+After dabbling in mathematical signals & systems theory and (briefly) statistical physics, I found my calling in optimization and machine learning.
 
-I am broadly interested in the interplay between learning and decision making. Consequently, my deepest interests are in machine learning (RL), optimization, control, online algorithms, and various aspects of perception (esp vision).
+I am broadly interested in the interplay between optimization, learning, and decision theory. Consequently, my deepest interests are in reinforcement learning, stochastic optimization, and of late deep learning.
 
 ### Contact me
 
