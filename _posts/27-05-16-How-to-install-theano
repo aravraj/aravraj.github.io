@@ -1,3 +1,8 @@
+---
+layout: post
+title: Math Equations
+---
+
 # How to install theano in ubuntu
 
 I finally got theano to work in ubuntu. There were quite a few issues with dependencies and incorrectly installed libraries. I am listing down things that worked in the event I require something similar in the future.
