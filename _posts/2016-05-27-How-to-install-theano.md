@@ -3,8 +3,6 @@ layout: post
 title: How to install theano (in ubuntu)
 ---
 
-# How to install theano in ubuntu
-
 I finally got theano to work in ubuntu. There were quite a few issues with dependencies and incorrectly installed libraries. I am listing down things that worked in the event I require something similar in the future.
 
 1. Create new conda environment with python2. Many have reported problems using theano with python3, and most tutorials and code online seem to be python2 compatible. So, for the time being, lets use python2.
